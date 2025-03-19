@@ -39,7 +39,7 @@ O dataset utilizado está disponível no arquivo crop_yield.csv.
 
 ## 📁 Estrutura
 
-- **notebooks**: Arquivos `.ipynb` com as implementações para cada tarefa.
+- **notebooks.zip**: Arquivos `.ipynb` com as implementações para cada tarefa.
 - **Arquivos.zip**: Contém o conjunto de dados utilizado no projeto.
 - **README.md**: Arquivo explicativo do projeto (o mesmo que você está lendo agora).
 
